@@ -1,2 +1,2 @@
-# htmlacademy.github.io
+# htmlacademy3.github.io
 Мой первый хостинг
